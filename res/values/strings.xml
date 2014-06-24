@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Comparing Distance</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_text">This gives the distance between an entered zip code and the user\'s current location</string>
+	<string name="enter_zip">Enter a zip code</string>
+	<string name="go">Go</string>
+    	
+</resources>
